@@ -1,0 +1,10 @@
+.mySuperClass{
+    color:red;
+}
+
+.counter{
+    width:100px;
+    margin: 15px;
+    border: 1px solid black;
+    padding: 10px;
+}
